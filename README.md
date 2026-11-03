@@ -36,7 +36,7 @@ Only the Community Version of Ruckig is ported and pro features are not availabl
 Struckig is dual licensed:
 
 - GPLv3 for open-source usage
-- commercial custom license for closed-source usage (contact [stefan@besler.me](mailto:stefan@besler.me))
+- commercial custom license for closed-source usage (contact [stefan@besler.me](mailto:stefan.besler@zeugwerk.at))
 
 ## Documentation
 
